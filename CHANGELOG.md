@@ -10,7 +10,3 @@ php artisan migrate
 ```
 php artisan db:seed
 ```
-# 后台访问
-```
-http://www.host.com/index.php/
-```
