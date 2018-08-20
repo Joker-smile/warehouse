@@ -47,7 +47,7 @@
                                         单价:
                                     </label>
                                     <div class="col-1">
-                                        <input class="form-control" name="data[{{$i}}][price]" type="text" value="">
+                                        <input class="form-control" name="data[{{$i}}][price]" type="number" value="0" required="">
                                         </input>
                                     </div>
                                     <label class="col-form-label ml-1 text-right" for="supplier">

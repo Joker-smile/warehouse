@@ -27,7 +27,7 @@
                 </div>
                 <div class="form-group">
                     <label for="">单价</label>
-                    <input type="text" name="price" value="{{$material->price}}" class="form-control">
+                    <input type="number"  required="" name="price" value="{{$material->price}}" class="form-control">
                 </div>
                 <div class="form-group">
                     <label>类型:</label>
